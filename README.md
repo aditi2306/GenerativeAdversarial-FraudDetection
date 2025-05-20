@@ -1,1 +1,1 @@
-# GenerativeAdversarial-FraudDetection
+# Generative Adversarial-Credit Card Fraud Detection
